@@ -1,4 +1,7 @@
 # sql_program_practice
+
+To compile the project, Qt6 must be installed!
+
 The program was prepared during practical training. The program creates a table with the phone book, you can fill it out, add lines, delete them, all information is saved.
 
 Start to use:
